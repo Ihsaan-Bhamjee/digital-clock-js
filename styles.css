@@ -1,0 +1,29 @@
+html {
+    background-color: black;
+    color: aqua;
+}
+
+.container {
+    margin-top: 18%;
+    display: grid;
+    place-items: center; 
+}
+
+#watch {
+    font-size: 80px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#btn {
+    margin-top: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #747171;
+    color: #eee;
+    font-size: 20px;
+}
+
+.colour{
+    color: red;
+}
